@@ -1,0 +1,17 @@
+body {
+    color: #000000;
+    background-color: #ffffff;
+    font-family: Noto sans Japanese;
+}
+.home {
+    font-size: 34px;
+}
+.menu {
+    font-size: 34px;
+    display: inline;
+    text-align: right;
+}
+#copyright {
+    color:#000000
+    float: center;
+}
